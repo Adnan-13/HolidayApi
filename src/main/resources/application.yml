@@ -1,0 +1,6 @@
+google:
+  calendar:
+    api:
+      key:
+        file:
+          path: classpath:Secrets/GoogleCalendarApiKey.json
